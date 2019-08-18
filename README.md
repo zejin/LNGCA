@@ -1,2 +1,0 @@
-# LNGCA
-R Package LNGCA
